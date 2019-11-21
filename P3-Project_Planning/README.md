@@ -4,16 +4,16 @@ For this assignment, you'll create some initial plans for your project.
 ## Assignment Description
 [Project Planning Assignment](https://education.launchcode.org/liftoff/modules/assignments/project-planning)
 
-## Submission Instructions
-
 ### Wireframes
-
-Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
+* [Welcome View]https://github.com/baritoneplaya2/Skedule_App/blob/master/WireframeIndex.pdf
+* [Register View]https://github.com/baritoneplaya2/Skedule_App/blob/master/WireframeRegister.pdf
+* [Login View]https://github.com/baritoneplaya2/Skedule_App/blob/master/WireframeLogin.pdf
+* [Calendar View]https://github.com/baritoneplaya2/Skedule_App/blob/master/WireframeCalendar.pdf
+* [Add to Calendar View]https://github.com/baritoneplaya2/Skedule_App/blob/master/WireframeAddToCalendar.pdf
+* [Settings View]https://github.com/baritoneplaya2/Skedule_App/blob/master/WireframeSettings.pdf
 
 ### Project Tracker
-
-Include a link to your public Trello board. Be sure you have user stories added for at least your first 2-week sprint.
+https://trello.com/b/RrpWuWZX/skedule-get-together-app
 
 ### Project Repo Link
-
-Include a link to your project on GitHub.
+https://github.com/baritoneplaya2/Skedule_App
